@@ -2,11 +2,11 @@
 
 ## I am a husband, pet parent, developer, and motorcycle enthusiast.
 
-- I am entering my senior year for my B.S. in Software Development
+- In February 2023, I achieved my B.S. in Software Development
 - I am currently studying every platform I can in my spare time
-- I am looking for an entry level developer position
-- In 2022 my goal is to learn different platforms and become a more well rounded developer
-- My hobbies include spending time with my wife and dog, riding motorcycle, and playing Starcraft II
+- I have been a Full Stack Developer for about 10 months.
+- In 2023 my goal is to learn different platforms and become a more well rounded developer
+- My hobbies include spending time with my dog, riding motorcycle, and playing Starcraft II
 
 <br />
 
