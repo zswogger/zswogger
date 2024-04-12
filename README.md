@@ -1,6 +1,6 @@
 ### Hello, my name is Zach.
 
-## I am a husband, pet parent, developer, and motorcycle enthusiast.
+## I am a gamer, pet parent, developer, and motorcycle enthusiast.
 
 - In February 2023, I achieved my B.S. in Software Development
 - I am currently studying every platform I can in my spare time
