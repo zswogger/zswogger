@@ -4,8 +4,7 @@
 
 - In February 2023, I achieved my B.S. in Software Development
 - I am currently studying every platform I can in my spare time
-- I have been a Full Stack Developer for about 10 months.
-- In 2023 my goal is to learn different platforms and become a more well rounded developer
+- I have been a Full Stack Developer since October 2022
 - My hobbies include spending time with my dog, riding motorcycle, and playing Starcraft II
 
 <br />
